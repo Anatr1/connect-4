@@ -15,4 +15,4 @@ By selecting **Human vs AI** the user gets to choose between two different AIs: 
 
 In future updates the mode **AI vs AI** will be added
 
-![Screenshot](./Screenshot_20211122_235429.jpg)
+![Screenshot](./Screenshot_20211122_235429.png)
