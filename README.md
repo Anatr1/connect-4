@@ -1,6 +1,6 @@
 # CONNECT 4 GAME
 
-My personal implementation for the Connect4 for the Computational Intelligence course by Prof. Squillero at Politecnico di Torino.
+My personal implementation for the Connect4 game for the Computational Intelligence course by Prof. Squillero at Politecnico di Torino.
 
 ## Usage
 
